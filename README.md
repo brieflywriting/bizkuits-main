@@ -5,4 +5,4 @@ REQUIRES: Tamriel Rebuilt
 OPTIONALS: Sun's Dusk and S3maphore
 
 
-Bizkuitz is very pretty.
+Bizkuitz is very pretty. Indeed he is.
