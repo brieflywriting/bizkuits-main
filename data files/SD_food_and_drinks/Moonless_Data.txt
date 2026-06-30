@@ -1,0 +1,3 @@
+	Raw Data	from Game	Source	Consumable Type	Food, Drink, and Wired Value					Animal Products	Prepared Food				Cooking Data										
+Item Type	Item ID	Item Name	Vanilla/TR/OAAB/Mod Name		F	D	W	H/C	Toxic	Green Pact 	C/B	Class	Rank	Mag	Primary Effect	Secondary Effect	Third Effect								
+Ingredient	mlss_biz_biscuit	Biz'Kuitz Biscuit	Moonless	Hearty Meal	160				FALSE	FALSE	FALSE	bread	7	35	RestoreMagicka	RestoreFatigue									
