@@ -3,3 +3,6 @@ Meet Biz'Kuitz! Recently expelled dismissed from his position as a Court Wizard,
 
 REQUIRES: Tamriel Rebuilt
 OPTIONALS: Sun's Dusk and S3maphore
+
+
+Bizkuitz is very pretty.
