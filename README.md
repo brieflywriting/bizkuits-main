@@ -6,3 +6,5 @@ OPTIONALS: Sun's Dusk and S3maphore
 
 
 Bizkuitz is very pretty. Indeed he is.
+
+Current version of the mod is 1.0.4. Further versions are posted on Nexusmods.
